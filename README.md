@@ -1,4 +1,4 @@
-# # ETL
+# ETL
 
 I'm ready to provide a more comprehensive explanation of ETL, incorporating additional details and examples:
 
